@@ -1,6 +1,6 @@
 import { Injectable } from '@angular/core';
 import {environment} from "../../../environments/environment";
-import {ICategory} from "../../sahred/interfaces/ICategory";
+import {ICategory} from "../../sahred/interfaces/category";
 import {HttpClient} from "@angular/common/http";
 import {catchError, Observable, of} from "rxjs";
 
@@ -19,4 +19,5 @@ export class CategoriesService {
       return of(error.message);
     }))
   }
+
 }

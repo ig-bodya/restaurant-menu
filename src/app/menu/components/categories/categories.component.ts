@@ -1,6 +1,6 @@
 import {Component, OnInit} from '@angular/core';
 import {CategoriesService} from "../../../core/services/categories.service";
-import {ICategory} from "../../../sahred/interfaces/ICategory";
+import {ICategory} from "../../../sahred/interfaces/category";
 
 @Component({
   selector: 'app-categories',
@@ -20,5 +20,4 @@ export class CategoriesComponent implements OnInit {
       this.categories = item;
     })
   }
-
 }
