@@ -1,0 +1,46 @@
+.dishes-wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+
+  .dish-item {
+    display: flex;
+    margin-bottom: 20px;
+    padding: 5px;
+
+    .dish-content {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+
+      .title-wrapper {
+        background: #000;
+        color: whitesmoke;
+        padding: 12px;
+        margin-bottom: 12px;
+
+        p {
+          margin: 0;
+        }
+      }
+
+      .toppings {
+        text-align: center;
+        height: 60px;
+        margin-bottom: 12px;
+        max-width: 250px;
+      }
+
+      .dish-icon {
+        max-width: 300px;
+        aspect-ratio: 1/1;
+        margin-bottom: 12px;
+      }
+
+      .dish-price {
+        padding: 12px;
+        border: 1px solid darkgrey;
+      }
+    }
+  }
+}

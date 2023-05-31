@@ -1,0 +1,128 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "title": "Drinks",
+      "iconLink": "https://img.uxwing.com/wp-content/themes/uxwing/download/food-drinks-cooking/glass-drinks-icon.svg"
+    },
+    {
+      "id": 2,
+      "title": "Breakfast",
+      "iconLink": "https://img.uxwing.com/wp-content/themes/uxwing/download/food-drinks-cooking/sandwich-icon.svg"
+    },
+    {
+      "id": 3,
+      "title": "Pizza",
+      "iconLink": "https://img.uxwing.com/wp-content/themes/uxwing/download/food-drinks-cooking/pizza-food-icon.svg"
+    },
+    {
+      "id": 2,
+      "title": "Breakfast",
+      "iconLink": "https://img.uxwing.com/wp-content/themes/uxwing/download/food-drinks-cooking/sandwich-icon.svg"
+    },
+    {
+      "id": 3,
+      "title": "Pizza",
+      "iconLink": "https://img.uxwing.com/wp-content/themes/uxwing/download/food-drinks-cooking/pizza-food-icon.svg"
+    },
+    {
+      "id": 2,
+      "title": "Breakfast",
+      "iconLink": "https://img.uxwing.com/wp-content/themes/uxwing/download/food-drinks-cooking/sandwich-icon.svg"
+    },
+    {
+      "id": 3,
+      "title": "Pizza",
+      "iconLink": "https://img.uxwing.com/wp-content/themes/uxwing/download/food-drinks-cooking/pizza-food-icon.svg"
+    },
+    {
+      "id": 3,
+      "title": "Pizza",
+      "iconLink": "https://img.uxwing.com/wp-content/themes/uxwing/download/food-drinks-cooking/pizza-food-icon.svg"
+    },
+    {
+      "id": 3,
+      "title": "Pizza",
+      "iconLink": "https://img.uxwing.com/wp-content/themes/uxwing/download/food-drinks-cooking/pizza-food-icon.svg"
+    }
+  ],
+  "pizza": [
+    {
+      "id": 1,
+      "title": "Neapolitan Pizza",
+      "toppings": "Fresh mozzarella, tomatoes, basil leaves, oregano, and olive oil.",
+      "details": "Neapolitan is the original pizza. This delicious pie dates all the way back to 18th century in Naples, Italy. During this time, the poorer citizens of this seaside city frequently purchased food that was cheap and could be eaten quickly. Luckily for them, Neapolitan pizza was affordable and readily available through numerous street vendors.",
+      "price": 10
+    },
+    {
+      "id": 2,
+      "title": "Chicago Pizza",
+      "toppings": "Ground beef, sausage, pepperoni, onion, mushrooms, and green peppers, placed underneath the tomato sauce.",
+      "details": "Chicago pizza, also commonly referred to as deep-dish pizza, gets its name from the city it was invented in. During the early 1900’s, Italian immigrants in the windy city were searching for something similar to the Neapolitan pizza that they knew and loved. Instead of imitating the notoriously thin pie, Ike Sewell had something else in mind. He created a pizza with a thick crust that had raised edges, similar to a pie, and ingredients in reverse, with slices of mozzarella lining the dough followed by meat, vegetables, and then topped with a can of crushed tomatoes. This original creation led Sewell to create the now famous chain restaurant, Pizzeria Uno.",
+      "price": 15
+    },
+    {
+      "id": 2,
+      "title": "Chicago Pizza",
+      "toppings": "Ground beef, sausage, pepperoni, onion, mushrooms, and green peppers, placed underneath the tomato sauce.",
+      "details": "Chicago pizza, also commonly referred to as deep-dish pizza, gets its name from the city it was invented in. During the early 1900’s, Italian immigrants in the windy city were searching for something similar to the Neapolitan pizza that they knew and loved. Instead of imitating the notoriously thin pie, Ike Sewell had something else in mind. He created a pizza with a thick crust that had raised edges, similar to a pie, and ingredients in reverse, with slices of mozzarella lining the dough followed by meat, vegetables, and then topped with a can of crushed tomatoes. This original creation led Sewell to create the now famous chain restaurant, Pizzeria Uno.",
+      "price": 15
+    },
+    {
+      "id": 2,
+      "title": "Chicago Pizza",
+      "toppings": "Ground beef, sausage, pepperoni, onion, mushrooms, and green peppers, placed underneath the tomato sauce.",
+      "details": "Chicago pizza, also commonly referred to as deep-dish pizza, gets its name from the city it was invented in. During the early 1900’s, Italian immigrants in the windy city were searching for something similar to the Neapolitan pizza that they knew and loved. Instead of imitating the notoriously thin pie, Ike Sewell had something else in mind. He created a pizza with a thick crust that had raised edges, similar to a pie, and ingredients in reverse, with slices of mozzarella lining the dough followed by meat, vegetables, and then topped with a can of crushed tomatoes. This original creation led Sewell to create the now famous chain restaurant, Pizzeria Uno.",
+      "price": 15
+    },
+    {
+      "id": 2,
+      "title": "Chicago Pizza",
+      "toppings": "Ground beef, sausage, pepperoni, onion, mushrooms, and green peppers, placed underneath the tomato sauce.",
+      "details": "Chicago pizza, also commonly referred to as deep-dish pizza, gets its name from the city it was invented in. During the early 1900’s, Italian immigrants in the windy city were searching for something similar to the Neapolitan pizza that they knew and loved. Instead of imitating the notoriously thin pie, Ike Sewell had something else in mind. He created a pizza with a thick crust that had raised edges, similar to a pie, and ingredients in reverse, with slices of mozzarella lining the dough followed by meat, vegetables, and then topped with a can of crushed tomatoes. This original creation led Sewell to create the now famous chain restaurant, Pizzeria Uno.",
+      "price": 15
+    },
+    {
+      "id": 2,
+      "title": "Chicago Pizza",
+      "toppings": "Ground beef, sausage, pepperoni, onion, mushrooms, and green peppers, placed underneath the tomato sauce.",
+      "details": "Chicago pizza, also commonly referred to as deep-dish pizza, gets its name from the city it was invented in. During the early 1900’s, Italian immigrants in the windy city were searching for something similar to the Neapolitan pizza that they knew and loved. Instead of imitating the notoriously thin pie, Ike Sewell had something else in mind. He created a pizza with a thick crust that had raised edges, similar to a pie, and ingredients in reverse, with slices of mozzarella lining the dough followed by meat, vegetables, and then topped with a can of crushed tomatoes. This original creation led Sewell to create the now famous chain restaurant, Pizzeria Uno.",
+      "price": 15
+    },
+    {
+      "id": 2,
+      "title": "Chicago Pizza",
+      "toppings": "Ground beef, sausage, pepperoni, onion, mushrooms, and green peppers, placed underneath the tomato sauce.",
+      "details": "Chicago pizza, also commonly referred to as deep-dish pizza, gets its name from the city it was invented in. During the early 1900’s, Italian immigrants in the windy city were searching for something similar to the Neapolitan pizza that they knew and loved. Instead of imitating the notoriously thin pie, Ike Sewell had something else in mind. He created a pizza with a thick crust that had raised edges, similar to a pie, and ingredients in reverse, with slices of mozzarella lining the dough followed by meat, vegetables, and then topped with a can of crushed tomatoes. This original creation led Sewell to create the now famous chain restaurant, Pizzeria Uno.",
+      "price": 15
+    },
+    {
+      "id": 2,
+      "title": "Chicago Pizza",
+      "toppings": "Ground beef, sausage, pepperoni, onion, mushrooms, and green peppers, placed underneath the tomato sauce.",
+      "details": "Chicago pizza, also commonly referred to as deep-dish pizza, gets its name from the city it was invented in. During the early 1900’s, Italian immigrants in the windy city were searching for something similar to the Neapolitan pizza that they knew and loved. Instead of imitating the notoriously thin pie, Ike Sewell had something else in mind. He created a pizza with a thick crust that had raised edges, similar to a pie, and ingredients in reverse, with slices of mozzarella lining the dough followed by meat, vegetables, and then topped with a can of crushed tomatoes. This original creation led Sewell to create the now famous chain restaurant, Pizzeria Uno.",
+      "price": 15
+    },
+    {
+      "id": 2,
+      "title": "Chicago Pizza",
+      "toppings": "Ground beef, sausage, pepperoni, onion, mushrooms, and green peppers, placed underneath the tomato sauce.",
+      "details": "Chicago pizza, also commonly referred to as deep-dish pizza, gets its name from the city it was invented in. During the early 1900’s, Italian immigrants in the windy city were searching for something similar to the Neapolitan pizza that they knew and loved. Instead of imitating the notoriously thin pie, Ike Sewell had something else in mind. He created a pizza with a thick crust that had raised edges, similar to a pie, and ingredients in reverse, with slices of mozzarella lining the dough followed by meat, vegetables, and then topped with a can of crushed tomatoes. This original creation led Sewell to create the now famous chain restaurant, Pizzeria Uno.",
+      "price": 15
+    },
+    {
+      "id": 2,
+      "title": "Chicago Pizza",
+      "toppings": "Ground beef, sausage, pepperoni, onion, mushrooms, and green peppers, placed underneath the tomato sauce.",
+      "details": "Chicago pizza, also commonly referred to as deep-dish pizza, gets its name from the city it was invented in. During the early 1900’s, Italian immigrants in the windy city were searching for something similar to the Neapolitan pizza that they knew and loved. Instead of imitating the notoriously thin pie, Ike Sewell had something else in mind. He created a pizza with a thick crust that had raised edges, similar to a pie, and ingredients in reverse, with slices of mozzarella lining the dough followed by meat, vegetables, and then topped with a can of crushed tomatoes. This original creation led Sewell to create the now famous chain restaurant, Pizzeria Uno.",
+      "price": 15
+    },
+    {
+      "id": 2,
+      "title": "Chicago Pizza",
+      "toppings": "Ground beef, sausage, pepperoni, onion, mushrooms, and green peppers, placed underneath the tomato sauce.",
+      "details": "Chicago pizza, also commonly referred to as deep-dish pizza, gets its name from the city it was invented in. During the early 1900’s, Italian immigrants in the windy city were searching for something similar to the Neapolitan pizza that they knew and loved. Instead of imitating the notoriously thin pie, Ike Sewell had something else in mind. He created a pizza with a thick crust that had raised edges, similar to a pie, and ingredients in reverse, with slices of mozzarella lining the dough followed by meat, vegetables, and then topped with a can of crushed tomatoes. This original creation led Sewell to create the now famous chain restaurant, Pizzeria Uno.",
+      "price": 15
+    }
+  ]
+}

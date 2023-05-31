@@ -1,0 +1,10 @@
+<div *ngIf="categories" class="categories-wrapper">
+    <div *ngFor="let category of categories" class="categories-item">
+        <img src="{{category.iconLink}}" alt="{{category.title}}" class="category-icon">
+        <p>{{category.title}}</p>
+    </div>
+    <div class="categories-item">
+        <img src="https://img.uxwing.com/wp-content/themes/uxwing/download/user-interface/plus-round-line-icon.svg" alt="add" class="category-icon">
+        <p>Add a new category</p>
+    </div>
+</div>

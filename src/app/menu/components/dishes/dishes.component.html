@@ -1,0 +1,13 @@
+<div class="dishes-wrapper">
+    <div class="dish-item" *ngFor="let dish of dishes$ | async">
+        <div class="dish-content">
+            <div class="title-wrapper">
+                <div class="title">{{dish.title | uppercase}}</div>
+            </div>
+            <img src="https://pomidoros-pizza.com.ua/wp-content/uploads/2019/03/4-miasa.png" class="dish-icon"
+                 alt="icon">
+            <div class="toppings">{{dish.toppings}}</div>
+            <div class="dish-price">{{dish.price | currency: 'USD'}}</div>
+        </div>
+    </div>
+</div>
